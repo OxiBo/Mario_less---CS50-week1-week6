@@ -10,7 +10,7 @@ def main():
         if height>0 and height<=23:
             break
 
-    width=height-1 #creat a variable to remember amount of spaces to print in each row
+    width=height-1 #create a variable to remember amount of spaces to print in each row
     h=2 #create a variable to remember the amount of # to print in each row
 
     #iterate over each row
